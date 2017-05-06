@@ -2,7 +2,7 @@
   "name": "styles",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "styles.js",
   "scripts": {
     "test": "mocha .",
     "test:watch": "mocha --watch tests"
